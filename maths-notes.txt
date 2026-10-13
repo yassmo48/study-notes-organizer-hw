@@ -1,0 +1,3 @@
+do factorising
+highest comman factor
+lowest common multiple
